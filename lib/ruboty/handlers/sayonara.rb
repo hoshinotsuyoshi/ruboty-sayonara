@@ -5,7 +5,7 @@ module Ruboty
 
       def say_sayonara_message(message)
         at_exit { message.reply('さよなら', code: true) }
-        'まだ寝えへんで'
+        message.reply('まだ寝えへんで')
       end
     end
   end
