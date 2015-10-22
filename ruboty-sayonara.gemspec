@@ -1,16 +1,16 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'ruboty/ruby_eval/version'
+require 'ruboty/sayonara/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "ruboty-ruby_eval"
+  spec.name          = "ruboty-sayonara"
   spec.version       = Ruboty::RubyEval::VERSION
   spec.authors       = ["hoshinotsuyoshi"]
   spec.email         = ["guitarpopnot330@gmail.com"]
-  spec.summary       = %q{eval given code}
+  spec.summary       = %q{bot says sayonara}
   spec.description   = %q{}
-  spec.homepage      = "https://github.com/hoshinotsuyoshi/ruboty-ruby_eval"
+  spec.homepage      = "https://github.com/hoshinotsuyoshi/ruboty-sayonara"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

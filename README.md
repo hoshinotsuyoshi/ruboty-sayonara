@@ -1,12 +1,7 @@
-# Ruboty::RubyEval
-
-## Usage
-
-eval is evil.
-Do not use.
+# Ruboty::Sayonara
 
 ```ruby
-gem 'ruboty-ruby_eval'
+gem 'ruboty-sayonara'
 ```
 
 And then execute:
@@ -15,11 +10,11 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install ruboty-ruby_eval
+    $ gem install ruboty-sayonara
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/ruboty-ruby_eval/fork )
+1. Fork it ( https://github.com/hoshinotsuyoshi/ruboty-sayonara/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
