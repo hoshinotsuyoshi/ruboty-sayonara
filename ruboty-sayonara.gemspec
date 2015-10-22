@@ -5,7 +5,7 @@ require 'ruboty/sayonara/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "ruboty-sayonara"
-  spec.version       = Ruboty::RubyEval::VERSION
+  spec.version       = Ruboty::Sayonara::VERSION
   spec.authors       = ["hoshinotsuyoshi"]
   spec.email         = ["guitarpopnot330@gmail.com"]
   spec.summary       = %q{bot says sayonara}
